@@ -1,4 +1,4 @@
-# Vue 3 + Mapbox + Typescript
+# Vue 3 + Mapbox + Typescript + Vite 
 Vue + Mapbox + Typescript
 
 ## Expressions of Gratitude 🎁
